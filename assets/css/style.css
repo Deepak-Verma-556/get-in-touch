@@ -157,18 +157,12 @@ label {
 }
 
 textarea {
-    padding: 70px;
+    padding: 10px 40px 130px 10px;
     border-radius: 10px;
     border: 2px solid #EBEAED;
     margin-bottom: 20px;
-    position: relative;
 }
 
-textarea::placeholder {
-    position: absolute;
-    left: 10px;
-    top: 10px;
-}
 
 @media (min-width:1200px) {
     .col-xl-5 {
